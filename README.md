@@ -15,7 +15,7 @@ fox = Actor("fox")
 WIDTH = 1000 # 画面のサイズ
 HEIGHT = 800 # 画面のサイズ
 point = 0
-timer_box = Rect(0, 0, 100, 40)
+timer_box = Rect(0, 0, 100, 40) # 背景の色
 
 
 def draw():
